@@ -1,8 +1,8 @@
 CAVE STORY - DOUKUTSU MONOGATARI
-VERSION FRAN«AISE
+VERSION FRAN√áAISE
 =================================
 
-Jeu © Pixel 2004
+Jeu ¬© Pixel 2004
 Traduction par Max le Fou - 2009
 
 Version du jeu : 1.0.0.6
@@ -11,7 +11,7 @@ Version de la traduction : 1.2
 Notes de version :
 1.2
 - Correction des textes pour faire plus similaire avec le patch pour CS+ (Changement du tutoiement en vouvoiement)
-- Traduction des crÈdits de fin
+- Traduction des cr√©dits de fin
 - Correction dans la traduction du manuel et changememnt de certains screens du manuel.
 
 1.1
@@ -19,31 +19,31 @@ Notes de version :
 - Traduction de la boite de dialogue Yes/No
 
 1.02
-- Crash des crÈdits de fin rÈparÈ
+- Crash des cr√©dits de fin r√©par√©
 
 1.01
 - Shell du jeu traduit.
-- Jeu compilÈ en installateur.
-- Version FranÁaise de DoConfig.exe, renommÈe DoConfFR.exe. (Merci ‡ Brendan Stephenson)
+- Jeu compil√© en installateur.
+- Version Fran√ßaise de DoConfig.exe, renomm√©e DoConfFR.exe. (Merci ≈ï Brendan Stephenson)
 - Quelques corrections typo.
 
 1.00
-- Jeu intÈgralement traduit. Quelques corrections typos.
-- ChangÈ nom Iron Bond en Lien d'Acier
-- ChangÈ nom Coeur en Noyau ‡ certains endroits
+- Jeu int√©gralement traduit. Quelques corrections typos.
+- Chang√© nom Iron Bond en Lien d'Acier
+- Chang√© nom Coeur en Noyau ≈ï certains endroits
 
 BETA 1.00
-- PremiËre release. Tout est traduit sauf le passage dans Hell
+- Premiƒçre release. Tout est traduit sauf le passage dans Hell
 
 ------------------------------------------
 
 Remerciements :
-‡ Pixel pour son super jeu :)
-‡ la team qui a dÈvelopÈ CaveEditor
-‡ Noxid pour son aide
-‡ Eurower.net d'hÈberger mon site et la page consacrÈe au jeu.
-‡ Ragax.com et miraigamer.net pour hÈberger mon boulot et le distribuer sur leurs sites
-‡ toi, joueur, pour avoir downloadÈ et jouÈ ‡ ce jeu!
+- Pixel pour son super jeu :)
+- la team qui a d√©velop√© CaveEditor
+- Noxid pour son aide
+- Eurower.net d'h√©berger mon site et la page consacr√©e au jeu.
+- Ragax.com et miraigamer.net pour h√©berger mon boulot et le distribuer sur leurs sites
+- toi, joueur, pour avoir download√© et jou√© ≈ï ce jeu!
 
 http://cavestory.maxlefou.com/
 http://hp.vector.co.jp/authors/VA022293/
