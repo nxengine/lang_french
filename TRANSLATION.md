@@ -24,16 +24,16 @@ Notes de version :
 1.01
 - Shell du jeu traduit.
 - Jeu compilé en installateur.
-- Version Française de DoConfig.exe, renommée DoConfFR.exe. (Merci ŕ Brendan Stephenson)
+- Version Française de DoConfig.exe, renommée DoConfFR.exe. (Merci à Brendan Stephenson)
 - Quelques corrections typo.
 
 1.00
 - Jeu intégralement traduit. Quelques corrections typos.
 - Changé nom Iron Bond en Lien d'Acier
-- Changé nom Coeur en Noyau ŕ certains endroits
+- Changé nom Coeur en Noyau à certains endroits
 
 BETA 1.00
-- Premičre release. Tout est traduit sauf le passage dans Hell
+- Première release. Tout est traduit sauf le passage dans Hell
 
 ------------------------------------------
 
@@ -43,7 +43,7 @@ Remerciements :
 - Noxid pour son aide
 - Eurower.net d'héberger mon site et la page consacrée au jeu.
 - Ragax.com et miraigamer.net pour héberger mon boulot et le distribuer sur leurs sites
-- toi, joueur, pour avoir downloadé et joué ŕ ce jeu!
+- toi, joueur, pour avoir downloadé et joué à ce jeu!
 
 http://cavestory.maxlefou.com/
 http://hp.vector.co.jp/authors/VA022293/
