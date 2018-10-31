@@ -8,10 +8,14 @@
   "Reset" : "Réinitialiser",
   "Resume" : "Retour",
 
+  "Graphics": "Écran",
+  "Sound": "Son",
+
+
   "Resolution: ": "Taille de l'écran: ",
   "Fullscreen: ": "Plein écran: ",
   "On": "Activé",
-  "Off": "Désactivé",
+  "Off": "Éteindre",
   "Boss Only": "Boss seulement",
   "Controls": "Contrôles",
   "Music: ": "Musique: ",
@@ -19,10 +23,16 @@
   "Old": "Original",
   "New": "Nouveau",
   "Remastered": "Remasterisé",
-  "Sound: ": "Bruitage: ",
+  "Sound: ": "Son: ",
+  "SFX volume: ": "Volume du Son: ",
+  "Music volume: ": "Volume de la Musique: ",
   "Language: ": "Langage: ",
   "Return": "Retour",
   "Force feedback: ": "Retour de force: ",
+
+  "Bind keys": "Redéfinir",
+  "Strafing: ": "Reculer: ",
+
   "Left": "Gauche",
   "Right": "Droite",
   "Up": "Haut",
@@ -34,6 +44,7 @@
   "Inventory": "Inventaire",
   "Map": "Carte",
   "Pause": "Pause",
+  "Strafe": "Reculer",
 
   "Null": "Nul",
   "Arthur's House": "Maison d'Arthur",
