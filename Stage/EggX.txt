@@ -23,7 +23,7 @@
 
 #0110
 <KEY<MSGVous sentez un vent froid
-entrer...<NOD<END
+souffler...<NOD<END
 
 
 #0200
@@ -50,8 +50,8 @@ y vit !<NOD<FAC0000<CLO<EVE0203
 #0202
 <FAC0002Hmph...<NOD<CLRPeu importe.<NOD<FAC0000<CLO<EVE0203
 #0203
-<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh !<NOD<MYD0003<CLRRegarde ! C'est l'Suf
-Numéro 00 !<NOD<CLRCet Suf pourrait être
+<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh !<NOD<MYD0003<CLRRegarde ! C'est l'Oeuf
+Numéro 00 !<NOD<CLRCet Oeuf pourrait être
 notre ticket de retour!<NOD<CLO<FAC0000<MYD0002
 <ANP0200:0003:0002<WAI0030
 <ANP0200:0005:0002<WAI0050
@@ -62,7 +62,7 @@ C'est génial !<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
 <ANP0200:0000:0000<WAI0050
 <MSG<FAC0001Apparemment, il faut un
 code pour faire éclore cet
-Suf.<NOD<CLR<FAC0002*soupir*.<NOD<CLRSi seulement mon frère
+Oeuf.<NOD<CLR<FAC0002*soupir*.<NOD<CLRSi seulement mon frère
 était là, il règlerait
 le problème.<NOD<CLR.....<NOD<CLR<FAC0001Bon, je ne peux rien
 faire de plus, ici.<NOD<CLO
@@ -85,7 +85,7 @@ m'aideras.<NOD<CLO
 <ANP0100:0000:0000<DNP0200<SOU0023<END
 
 #0300
-<KEY<MSG<TURRuf de dragon No. 00
+<KEY<MSG<TUROeuf de dragon No. 00
 Préparatifs d'éclosion accomplies.<NOD<CLR
 Entrez le mot de passe:<NOD<END
 #0300
