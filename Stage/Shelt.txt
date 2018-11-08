@@ -179,7 +179,7 @@ KAZ: Le code du secteur est
 KAZ: Regarde si tu peux
 scanner par ici.<NOD<CLRKAZ: Ah, et Maman n'est pas ici.<NOD
 KAZ: Elle a du rester avec
-le Docteur.<NOD<CLRKAZ: Est-ce qu'un des ufs
+le Docteur.<NOD<CLRKAZ: Est-ce qu'un des oeufs
 de dragon va bientôt éclore ?<NOD<FAO0004<TRA0024:0702:0002:0000
 
 #0702
