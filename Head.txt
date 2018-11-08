@@ -27,7 +27,7 @@ Se reposer ?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<NOD<CLO
 #0030
 <PRI<FLJ0202:0032<FLJ0201:0031<FL+0201<GIT0005<AM+0005:0010
 <CMU0010Obtenu un =Lance-missile=<WAI0160<NOD<RMU<CLRC'est une arme très
-puissantes mais aux munitions
+puissante mais aux munitions
 limitées.<NOD
 Vous pouvez reprendre des missiles
 en détruisant des ennemis.<NOD<END
