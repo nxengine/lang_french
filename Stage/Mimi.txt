@@ -192,7 +192,7 @@ tout de suite !<NOD<ANP0600:0000:0002<CLR<ANP0610:0000:0000<FAC0007La ferme !<NO
 Toroko a été kidnapée !<NOD<CLRNotre seule chance est
 de te livrer à eux et
 espérer une négociation.<NOD<ANP0600:0011:0002<CLR<FAC0003Espèce de balafré sans
-cSur!<NOD<ANP0600:0000:0002<CLR<FAC0007Si Toroko ne s'en sort pas,
+coeur!<NOD<ANP0600:0000:0002<CLR<FAC0007Si Toroko ne s'en sort pas,
 Je jure de te déplumer
 sauvagement !<NOD<CLO<CMU0009
 <FOM0016<WAI0050<END
