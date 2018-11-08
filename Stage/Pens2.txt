@@ -27,7 +27,7 @@ SUE: Ça va ?<NOD<FAO0004<TRA0018:0700:0002:0000
 SUE: Sue Sakamoto.<NOD<CLRSUE: Tu as pu t'enfuir
 aussi ?<NOD
 SUE: Où es-tu, là ?<NOD
-SUE: J'ai trouvé des Sufs
+SUE: J'ai trouvé des Oeufs
 de dragon.<NOD
 SUE: Maman est avec toi ?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
