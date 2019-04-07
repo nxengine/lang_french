@@ -4,6 +4,7 @@
   "New game" : "Nouveau jeu",
   "Load game" : "Continuer",
   "Options" : "Paramètres",
+  "Mods" : "Modifications",
   "Quit" : "Quitter",
   "Reset" : "Réinitialiser",
   "Resume" : "Retour",
@@ -11,16 +12,16 @@
   "Graphics": "Écran",
   "Sound": "Son",
 
-
   "Resolution: ": "Taille de l'écran: ",
   "Fullscreen: ": "Plein écran: ",
+  "Animated facepics: ": "Portraits animés: ",
   "On": "Activé",
   "Off": "Éteindre",
   "Boss Only": "Boss seulement",
   "Controls": "Contrôles",
   "Music: ": "Musique: ",
   "Tracks: ": "Chanson: ",
-  "Old": "Original",
+  "Original": "Original",
   "New": "Nouveau",
   "Remastered": "Remasterisé",
   "Sound: ": "Son: ",
@@ -32,6 +33,8 @@
 
   "Bind keys": "Redéfinir",
   "Strafing: ": "Reculer: ",
+  "Ok: ": "Acceptez: ",
+  "Cancel: ": "Annuler: ",
 
   "Left": "Gauche",
   "Right": "Droite",
