@@ -16,7 +16,7 @@
   "Fullscreen: ": "Plein écran: ",
   "Animated facepics: ": "Portraits animés: ",
   "On": "Activé",
-  "Off": "Éteindre",
+  "Off": "Désactivé",
   "Boss Only": "Boss seulement",
   "Controls": "Contrôles",
   "Music: ": "Musique: ",
@@ -33,7 +33,7 @@
 
   "Bind keys": "Redéfinir",
   "Strafing: ": "Reculer: ",
-  "Ok: ": "Acceptez: ",
+  "Ok: ": "Accepter: ",
   "Cancel: ": "Annuler: ",
 
   "Left": "Gauche",
