@@ -51,7 +51,8 @@ n'ai pas pu la protéger...<NOD<END
 #0210
 <KEY<MSG<FAC0009Il y a deux clés pour la
 maison d'Arthur.<NOD
-Toroko a l'une d'entre elles.<NOD
+Toroko a l'une d'entre 
+elles.<NOD
 L'autre est cachée dans
 le cimetière Mimiga.<NOD<END
 
