@@ -6,8 +6,8 @@
 #0092
 <PRI<CMU0000<MSG<ZAMVous sentez un vent noir
 souffler.<NOD<CLR
-Toutes les armes descendent
-au level 1 !<NOD<CLO
+Toutes les armes redescendent
+au niveau 1 !<NOD<CLO
 <FRE<MNA<CMU0029<FAI0002<END
 #0093
 <MNA<CMU0029<FAI0003<END

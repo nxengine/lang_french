@@ -90,7 +90,7 @@ si fragiles quand ils
 ne sont pas enragés ?<NOD<CLO<WAI0030<SMC<WAI0030
 <MSGOho !<NOD<CLRTu es ce soldat
 de la surface !<NOD<FON0501:0016<ANP0501:0020:0000<CLRTu arrives au
-très bon moment.<NOD
+bon moment.<NOD
 Tiens, ils sont tout à toi !<NOD<CLROh, non, non,
 ne me remercie pas.<NOD
 Amusez-vous bien
@@ -119,7 +119,7 @@ Vous avez vaincu Toroko frénésie.<WAI0050<NOD<CLO
 
 #0600
 <KEY<FL+0622<MSG<FAC0007Ergh...<NOD<CLRC'est fini pour moi.<NOD
-Venge moi. Venge nous.<NOD<CLRPrends cette épée.<NOD
+Venge-moi. Venge-nous.<NOD<CLRPrends cette épée.<NOD
 Sauve les...Mimigas !
 Je...t'en...prie !<NOD<CLO
 <ANP0505:0040:0005<MYB0000<WAI0100<END

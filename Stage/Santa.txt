@@ -52,7 +52,7 @@ Je n'ai vu personne d'autre
 par ici.<NOD
 Si tu veux aller plus loin
 dans la ville,<NOD
-faudra que tu passe par
+il faudra que tu passe par
 la cheminée de chez Chaco...<NOD<FL+0241<END
 #0503
 <KEY<MSGTu peux entrer au centre

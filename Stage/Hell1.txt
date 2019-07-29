@@ -18,8 +18,8 @@
 #0096
 <MSGVous sentez un vent noir
 souffler.<NOD<CLR
-Toutes les armes tombent
-au level 1 !<NOD<CLO
+Toutes les armes redescendent
+au niveau 1 !<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 
 
@@ -61,7 +61,7 @@ avec la corde.<NOD<END
 <PRI<MS3Tu savais que cette sorcière
 de Jenka avait un frère ?<NOD
 Il s'appelait Ballos.<NOD
-Comme sa sSur, il possédait
+Comme sa soeur, il possédait
 des pouvoirs au-delà de ceux
 des mortels...<NOD<END
 

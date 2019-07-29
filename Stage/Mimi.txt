@@ -207,12 +207,12 @@ sauvagement !<NOD<CLO<CMU0009
 <ANP0610:0000:0000<WAI0100<MSG<FAC0007Alors nous sommes...
 des armes ?<NOD<CMU0009<FAI0004<CLR<FAC0002Oui.<NOD<CLRLe Docteur veut qu'on
 mange des fleurs rouges et
-qu'on attaque les humains.<NOD<CLR<FAC0009Qu--Pourquoi il veut
+qu'on attaque les humains.<NOD<CLR<FAC0009Qu--Pourquoi veut-il
 faire ça ?!<NOD<CLR<FAC0002Ce type est...
-...un démon.<NOD<CLR<FAC0009Et il va utilsier ces
+...un démon.<NOD<CLR<FAC0009Et il va utiliser ces
 fleurs sur Toroko ?<NOD<CLR<FAC0002A ce que je sais,
 Il les cherche toujours.<NOD<CLROn ne peut que prier
-qu'il ne les trouve pas.<NOD<CLR<FAC0009Si...<NOD<CLRS'il trouve
+pour qu'il ne les trouve pas.<NOD<CLR<FAC0009Si...<NOD<CLRS'il trouve
 les fleurs, Toroko...<NOD<CLR<FAC0002Elle deviendrait sauvage...
 Une arme mortelle...<NOD<CLR<FAC0007Je ne laisserai jamais
 cela arriver !<NOD<CLO

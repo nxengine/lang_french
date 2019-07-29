@@ -75,7 +75,7 @@ Elle est très courageuse.<NOD
 Rien à voir avec moi,
 quoi...<NOD<CLRTrès bien, alors.<NOD
 Prends ceci.<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Obtenu =Controlleur=<WAI0160<NOD<RMU
+<CMU0010Obtenu =Contrôleur=<WAI0160<NOD<RMU
 <CLR<FAC0028Je crois que c'est
 ce qu'elle recherche.<NOD<GIT0000<EVE0404
 #0404

@@ -137,7 +137,7 @@ Oh non...<NOD<CLO<FAC0000
 <ANP0451:0003:0000<WAI0020
 <ANP0451:0000:0000<WAI0020
 <DNP0450<SMC
-<MS3<FAC0002L'ile commence à
+<MS3<FAC0002L'île commence à
 s'écrouler !<NOD<CLRDans peu de temps,
 cet endroit-là aussi !<NOD<CLRPartons d'ici
 au plus vite !<NOD<CLO

@@ -25,7 +25,7 @@
 <KEY<MYB0002<WAI0020
 <FLJ1563:0420
 <FLJ1562:0411
-<FLJ1561:0403<MSGOn a des affaires à regler
+<FLJ1561:0403<MSGOn a des affaires à régler
 ensemble ?<YNJ0401<FLJ1044:0402<CLRHah !<NOD
 Ça m'étonnerait.<NOD<END
 

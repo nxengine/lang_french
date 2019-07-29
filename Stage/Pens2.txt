@@ -33,9 +33,9 @@ SUE: Maman est avec toi ?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
 <KEY<FAI0004<MSG<FAC0001SUE: L'un d'eux, oui.<NOD
 SUE: Mais il est
-protégé par
+protégé par un
 mot de passe.<NOD
-SUE: Tu saurais regler
+SUE: Tu saurais régler
 ce problème ?<NOD<FAC0000<CLR<TURRecherche informations sur
 utilisateur "Kazuma"...<WAI0150<CLR<TUREffectuée.
 Location: Prairieville Structure D<NOD
@@ -52,7 +52,7 @@ Il en met du temps !<NOD<CLR
 <SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!<NOD
 <CLO<ANP0710:0008:0000<WAI0016<ANP0710:0000:0000
 <MSG<FAC0007Te voici enfin.<NOD
-Je t'attendais...<NOD<CLR<FAC0002Ah ? Qu'y a-t-il ?<NOD
+Je t'attendais...<NOD<CLR<FAC0002Ah ? Que se passe-t-il ?<NOD
 Je suis occupée.<NOD<CLR<FAC0007Toroko a été kidnappée
 par les sbires du Docteur.<NOD<CLR<FAC0001Quoi ?!<NOD<CLR<FAC0009Et nous TE tenons
 pour responsable !!<NOD<FAC0000<CLO

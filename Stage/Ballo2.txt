@@ -47,7 +47,7 @@ est fini.<NOD<CLO<FAC0000
 <PRI<MSG<FAC0025On va se faire écraser !<NOD<CLO<KEY<WAI0050
 <PRI<FAC0000<MS3Hiyah !<NOD<CLO
 <KEY<CNP0402:0009:0000<WAI0150
-<PRI<MSG<FAC0005Vous voila !
+<PRI<MSG<FAC0005Vous voilà !
 Misery l'avait prédit.<NOD<CLR
 <FAC0019Tu es venu nous sauver !<NOD<CLR<FAC0005Accrochez-vous !!<NOD<CLO<FAC0000
 <KEY

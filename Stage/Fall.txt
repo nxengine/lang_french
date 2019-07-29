@@ -24,8 +24,8 @@
 <MSG
 <CMU0010Ratrappé par Kazuma !<WAI0160<CLR<FAC0010Phew...<NOD<CLRJ'aurais jamais cru
 que tu y arriverais.<NOD<CLRTu as détruit le noyau...<NOD<CLRÀ présent, le monde est
-libre de toutes incarnations
-futures du Docteur.<NOD
+libre de toutes
+incarnations futures du Docteur.<NOD
 La paix a été restaurée !<NOD<CLR
 Maintenant, rentrons.<NOD<CLO
 <KEY<FAO0004<HMC<TRA0000:0100:0001:0015
@@ -49,13 +49,13 @@ cette sorcière ?<NOD<CLR
 nous détestait.<NOD
 Duh, je croyais que
 VOUS nous détestiez...<NOD<CLR<FAC0005Tu as vaincu Ballos, non ?<NOD<CLRQuand tu as fait ça,
-ça nous as libérés.<NOD
+ça nous a libérés.<NOD
 Aucun de nous deux
-n'ont des ordres
+n'ont d'ordres
 à recevoir maintenant !<NOD<CLR<FAC0019Je pensais que vous
 étiez juste des nuls,<NOD
 Mais je suppose que
-c'était a cause de la
+c'était à cause de la
 couronne !<NOD<CLR<FAC0005Eh ben, on croit ce
 qu'on voit.<NOD
 Après tout, Misery est
@@ -72,14 +72,14 @@ et je veux maintenant
 vivre chaque instant<NOD
 un endroit où je pourrais
 me relaxer devant
-uen belle vue...<NOD<CLO<FAC0000
+une belle vue...<NOD<CLO<FAC0000
 <WAI0100<MSG<FAC0005Uh, tu sais...<NOD<CLR
-<FAC0025Hm ?<NOD<CLR<FAC0005...Ça vous dérange pas
+<FAC0025Hm ?<NOD<CLR<FAC0005...Ça ne vous dérange pas
 si je me joins à vous ?<NOD<CLR
 <FAC0019Bien sur que non !<NOD
 Vivons tous les
 trois ensemble !<NOD<CLR
-<FAC0014Vraiment ?!<NOD<CLR<FAC0019J'te laisse choisir
+<FAC0014Vraiment ?!<NOD<CLR<FAC0019Je te laisse choisir
 le coin.<NOD
 Trouve nous un bon
 coin, okay ?<NOD<CLR

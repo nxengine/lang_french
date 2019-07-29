@@ -82,7 +82,7 @@ semble toujours en vie.<NOD<END
 <KEY<MSGVider Curly de son eau ?<YNJ0000<CLO
 <FL+1442<FAO0001<CMU0000<WAI0200<FAI0001
 <WAI0150<MSG<FAC0020
-Ooohh...<NOD<CLR<CMU0014<FAC0025.....<NOD<CLR<ANP0260:0001:0002<FAC0019Tu es vivant !<NOD<CLROh, je suis si heureuse...<NOD<CLR<FAC0025Je pensais pas qu'on
+Ooohh...<NOD<CLR<CMU0014<FAC0025.....<NOD<CLR<ANP0260:0001:0002<FAC0019Tu es vivant !<NOD<CLROh, je suis si heureuse...<NOD<CLR<FAC0025Je ne pensais pas qu'on
 réussirait.<NOD
 Quand t'as perdu
 connaissance,
@@ -95,7 +95,7 @@ je l'espérais.<NOD<CLR
 <MSGElle s'est rendormie.<NOD
 <END
 #0254
-<KEY<MSGAparemment, ça prend du temps
+<KEY<MSGApparemment, ça prend du temps
 pour redémarrer.<NOD<FL+1443<END
 #0255
 <KEY<MSG

@@ -32,7 +32,7 @@
 
 #0400
 <KEY<FLJ0960:0401<MSG<FAC0010Si tu cherches
-le noyau, va falloir
+le noyau, il va falloir
 te dépécher.<NOD<END
 #0401
 <KEY<CLO<FON0410:0016<WAI0050
@@ -53,7 +53,7 @@ son attaque sur la terre,
 utilisant l'île volante comme base.<WAI0200<CLRLes pays de la Terre seront-ils
 capables de contrecarrer l'assaut
 du Docteur ?<WAI0200<CLR<FAO0002En tout cas, cela ne fit aucune
-différence pour vous.<WAI0200<CLREnsemble, au cSur des montagnes,
+différence pour vous.<WAI0200<CLREnsemble, au coeur des montagnes,
 loin de la portée du Docteur,<WAI0200<CLRKazuma et vous finissez
 tranquilement le reste de
 vos jours...<WAI0200<CLR<CMU0026

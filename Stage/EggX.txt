@@ -42,7 +42,7 @@ J'ai été battue par
 ce monstre...<ANP0200:0000:0000<NOD<CLR.....<NOD
 C'est toi qui m'a sauvée ?<YNJ0202<EVE0201
 #0201
-<FAC0003J'avais pas besoin de toi !!<NOD<CLRJe pouvais m'en charger
+<FAC0003Je n'avais pas besoin de toi !!<NOD<CLRJe pouvais m'en charger
 seule ! Vraiment !<NOD
 Grr...Je déteste cette
 île, et tout ce qui
@@ -50,8 +50,8 @@ y vit !<NOD<FAC0000<CLO<EVE0203
 #0202
 <FAC0002Hmph...<NOD<CLRPeu importe.<NOD<FAC0000<CLO<EVE0203
 #0203
-<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh !<NOD<MYD0003<CLRRegarde ! C'est l'Oeuf
-Numéro 00 !<NOD<CLRCet Oeuf pourrait être
+<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh !<NOD<MYD0003<CLRRegarde ! C'est l'oeuf
+Numéro 00 !<NOD<CLRCet oeuf pourrait être
 notre ticket de retour!<NOD<CLO<FAC0000<MYD0002
 <ANP0200:0003:0002<WAI0030
 <ANP0200:0005:0002<WAI0050
@@ -72,7 +72,7 @@ faire de plus, ici.<NOD<CLO
 Les mots de ta
 casquette...<NOD
 Ce n'est pas un
-langage de cette
+dialecte de cette
 île.<NOD<CLR
 ...Tu t'es perdu ?<NOD<CLRT'en fais pas.<NOD
 Tu n'as qu'à me suivre.<NOD

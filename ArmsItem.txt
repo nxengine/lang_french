@@ -138,7 +138,7 @@ ses rêves seraient prémonitoires.<WAI9999<END
 #5026
 <MSG<TURLettre de Sue<WAI9999<END
 #5027
-<MSG<TURControlleur<WAI9999<END
+<MSG<TURContrôleur<WAI9999<END
 #5028
 <MSG<TURArroseur cassé<WAI9999<END
 #5029

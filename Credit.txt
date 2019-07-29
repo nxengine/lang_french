@@ -80,7 +80,7 @@
 
 f2000:0090
 [- Méchants -]0000-0064
-[Le traître assoife]0000-0016
+[Le traître assoiffé]0000-0016
 [ de pouvoir]0000-0016
 [  Le Docteur]0006-0064
 [Le larbin du Docteur]0000-0032
@@ -215,7 +215,7 @@ l0200
 [  Pooh Black]0030-0064
 [Gros boss du labyrinthe]0000-0032
 [  Monster X]0070-0064
-[CSur de l'ile]0000-0032
+[Coeur de l'ile]0000-0032
 [  Core]0106-0064
 [Gros poisson de]0000-0016
 [ l'ile]0000-0016
@@ -224,13 +224,13 @@ l0200
 [ dragons]0000-0016
 [  Sisters]0080-0064
 [Les vrais héros le voient]0000-0032
-[  Red Demon]0089-0064
+[  Démon rouge]0089-0064
 [Quand les cristaux]0000-0016
 [ rouges s'en mêlent]0000-0016
-[  Muscle Doctor]0109-0064
+[  Docteur Frénésie]0109-0064
 [Le Docteur fou et]0000-0016
-[ le cSur de l'ile]0000-0016
-[  Undead Core]0107-0064
+[ le coeur de l'ile]0000-0016
+[  Coeur zombie]0107-0064
 f2000:0290j0300l0290
 -0002
 [L'écraseur géant]0000-0032
@@ -286,7 +286,7 @@ l0300
 [The Way Back Home]0036-0032
 -0100
 +0040
-[= Grand mercis à =]0000-0032
+[= Grand merci à =]0000-0032
 +0048
 -0032
 [Torai      ]0037-0040
@@ -297,9 +297,10 @@ l0300
 [Nao       ]0117-0040
 [Shih Tzu  ]0123-0040
 [Gideon Zhi]0124-0040
-[And many others]0000-0040
+[Et beaucoup d'autres]0000-0040
 -0063
 [Trad FR par Max le Fou]0038-0040
+[Corrections par Spiegel]0038-0040
 -0063
 [Merci infiniment.]0129-0032
 -0240

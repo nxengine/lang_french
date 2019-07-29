@@ -73,7 +73,7 @@ THAT'S ALL, FOLKS !<NOD<END
 <CNP0291:0217:0000<ANP0291:0040:0000<WAI0050
 <ANP0290:0000:0000<WAI0020
 <MSG<FAC0028On a assez d'essence !
-On es prêts à partir.<NOD<CLRHeh... Je n'aurais jamais
+On est prêts à partir.<NOD<CLRHeh... Je n'aurais jamais
 cru que je reviendrais
 à la surface...<NOD<CLO<FAC0000
 <ANP0291:0050:0000<WAI0016
@@ -111,10 +111,10 @@ forces, ou tu te feras
 #0330
 <KEY<DNP0330<MYD0000<ANP0320:0000:0002
 <WAS<WAI0050
-<FON0320:0016<MSG<FAC0001Nulle part où aller.
-Va falloir sauter.<NOD
+<FON0320:0016<MSG<FAC0001Il n'y a nulle part où aller.
+Il va falloir sauter.<NOD
 C'est ça ou alors
-se laisser écraser !<NOD<CLRPrêt ?<NOD
+se faire écraser !<NOD<CLRPrêt ?<NOD
 Saute le plus loin
 possible !<NOD<CLO<KEY
 <ANP0320:0000:0000<WAI0050
