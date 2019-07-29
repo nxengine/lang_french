@@ -90,7 +90,7 @@ Tu as vaincu Balrog !<WAI0140<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
 <MSG<FAC0020Ça n'a pas bougé d'un poil.<NOD
 J'ai l'impression
-qu'à deux, on y
+qu'à deux, on n'y
 arrivera pas...<NOD<FAC0000<CLO
 <WAI0050
 <MSGHuzzah !<CMU0000<NOD<CLO
@@ -100,7 +100,7 @@ arrivera pas...<NOD<FAC0000<CLO
 <MYD0000
 <MSG<FAC0019Toi !<NOD<CLR<FAC0014Hohoho !<NOD<CLRTu es vivant, je vois !<NOD<CLREt en plus, tu essaies
 de t'enfuir du
-Labyrinthe !<NOD<CLRTu peux pas rester
+Labyrinthe !<NOD<CLRTu ne peux pas rester
 tranquille comme un
 bon petit robot ?<NOD<CLRTu ne feras pas 
 le poids face
@@ -110,7 +110,7 @@ Je vais en finir
 avec tout ça !<NOD<CLRNe m'en veux pas
 mais je dois te
 mettre en pièces !<NOD<CLR<FAC0019Ah ! Hé, toi,
-la grosse boite, là !<NOD
+la grosse boîte, là !<NOD
 Pousse par le
 millieu, tu veux ?<NOD<FAC0000<CLO<CMU0000
 <WAI0100
@@ -134,7 +134,7 @@ DE MOI OU QUOI ?!<NOD
 <KEY
 <FLJ0762:0502
 <FLJ0761:0501
-<MSGC'est un énome rocher.<NOD
+<MSGC'est un énorme rocher.<NOD
 De derrière, tu sens
 un vent souffler.<NOD
 Il faudrait au moins

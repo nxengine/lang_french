@@ -76,12 +76,12 @@ le chien près du lit.<NOD<FL+0564<END
 recherches !<NOD
 Mais ouvre les yeux !<NOD
 Les Mimigas ne sont pas
-nos enemis !<NOD
+nos ennemis !<NOD
 Les Mimigas sont
 inoffensifs !!<NOD<CLRDommage pour toi, mais...<NOD<CLO
 <WAI0020<SOU0004<CNP0400:0118:0002<DNP0500
 <WAI0010
-<MSGJe suis de leur coté !<NOD<CLRTu vas crever !!<NOD<CLO
+<MSGJe suis de leur côté !<NOD<CLRTu vas crever !!<NOD<CLO
 <BSL0400
 <CMU0004
 <ANP0400:0010:0002
@@ -114,7 +114,7 @@ Victoire !<WAI0140<CMU0000<NOD<CLO
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
 <MSG<FAC0020Tu as gagné...<NOD
-Je peux plus me battre...<NOD<CLRJe suppose que tu vas
+Je ne peux plus me battre...<NOD<CLRJe suppose que tu vas
 tuer tous les Mimigas,<NOD
 comme les autres robots
 avant toi ?<YNJ0410<CLRJe vois...<NOD<CLRQuel manque de pitié...<NOD<PRI<CLO
@@ -156,7 +156,7 @@ d'avis, reviens me voir.<NOD<PRI<CLO<MYD0000
 <KEY
 <FLJ0563:0530
 <FLJ0562:0515
-<MSG<FAC0019Huh ?<NOD<CLRTiens voila notre
+<MSG<FAC0019Huh ?<NOD<CLRTiens voilà notre
 Machine à tuer.<NOD<CLRTu veux toujours tuer
 les Mimigas ?<YNJ0510<CLR<FAC0020Je vois...<NOD<CLRQuel manque de pitié...<NOD<END
 

@@ -68,8 +68,8 @@ tu peux pas me tromper.<NOD<END
 <PRI<FLJ1270:0212
 <FLJ1271:0211
 <MSGLe Docteur a peur de nous.<NOD
-Alors ils nous as enfermés là.<NOD
-J'en suis sur.<NOD<END
+Alors il nous a enfermés là.<NOD
+J'en suis sûr.<NOD<END
 #0211
 <PRI<MSGTu as un truc à faire, là.<NOD<END
 #0212
@@ -135,18 +135,18 @@ Vous avez vaincu le Docteur !<WAI0140<NOD<CMU0000<CLO
 <MS3<FAC0021<ANP0400:0010:0000Mwah-hah-hah...<NOD<CLR
 Finalement c'est terminé.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
-<MS3<FAC0021Donner une fleur rouge
+<MS3<FAC0021Faire manger une fleur rouge
 à un Mimiga le conduit
-à une violente rage...<NOD<CLRLa raison en est, en
-fait, toute simple.<NOD<CLRLes fleurs n'ont pas
-seulement une substance
-qui augmente les facultés,<NOD<CLRElles écrasent aussi
-celles de la raison.<NOD<CLRJ'ai pu extraire cette
+à une violente rage...<NOD<CLRL'explication est simple,
+toute simple.<NOD<CLRLes fleurs n'ont pas
+seulement une essence qui augmente
+les capacités physiques.<NOD<CLRElle a aussi la particularité
+d'annihiler la raison de l'individu.<NOD<CLRJ'ai pu extraire cette
 partie avec succès et
 l'ai concentrée.<NOD<CLRTu peux le voir
 sous cette forme...<NOD<CLO<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
-<MS3<FAC0021...les Cristaux rouges.<WAI0030<NOD<CLREt contrairement aux,
+<MS3<FAC0021...les Cristaux rouges.<WAI0030<NOD<CLREt contrairement aux
 fleurs, les cristaux
 affectent aussi les humains.<NOD<CLR<ANP0400:0050:0000Ho-ho-hoh...<NOD<CLRC'est merveilleux !<NOD<CLRComprends-tu la
 splendeur de ceci ?

@@ -27,7 +27,7 @@ souffler...<NOD<END
 
 #0500
 <KEY<MSGDes mots sont à l'écran.<NOD<CLR
-<TURRUF ÉCLOS AVEC SUCCÈS<NOD<FLJ0941:0000<CLO
+<TUROEUF ÉCLOS AVEC SUCCÈS<NOD<FLJ0941:0000<CLO
 <FL+0941
 <WAI0020<CMU0000<MSGQui est là ?<MYD0002<NOD<CLO
 <WAI0050<CNP0400:0055:0000
@@ -86,12 +86,12 @@ On a fait ce qu'on a pu.<NOD<CLO
 autre moyen de rendre
 les Mimigas normaux
 à nouveau.<NOD<CLRIl faudrait détruire
-le cSur de l'île.<NOD
+le coeur de l'île.<NOD
 Si tu fais ça, cependant,
 l'île s'écroulerait.<NOD
 Un choix dangereux, non ?<NOD<WAI0050<ANP0400:0000:0000<CLRQuoi qu'il en soit, nous
 ne savons même pas
-où est ce cSur...<NOD<CLRSi tu veux tenter
+où est ce coeur...<NOD<CLRSi tu veux tenter
 ta chance, je t'attendrai.<NOD<CLRMais souviens-toi, si
 la situation empire,<NOD
 Il faudra vraiment que je

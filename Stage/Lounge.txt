@@ -55,7 +55,7 @@ nous en sont morts...<NOD
 Mais malgré leurs corps
 de métal. je crois que dans
 le fond<NOD
-ils avaient aussi des âmes...<NOD<END
+ils avaient aussi une âme...<NOD<END
 
 #0212
 <MSGÉcrase ce Docteur !<NOD<CLRLibère cette pauvre enfant
@@ -79,7 +79,7 @@ Comme si ça me faisait peur.<NOD<END
 <MSGJe suis si fatigué...<NOD<END
 
 #0250
-<KEY<MYB0000<MSGOh, hey.<NOD<CLROn s'est pas déjà vus ?<NOD
+<KEY<MYB0000<MSGOh, hey.<NOD<CLROn ne s'est pas déjà vus ?<NOD
 Oui, au village Mimiga.<NOD
 Quelqu'un nommé "Misery" m'a
 capturé et ammené ici.<NOD

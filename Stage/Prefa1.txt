@@ -23,12 +23,11 @@
 <KEY<MSGTu trouves une note écrite
 par Booster.<NOD
 La lire ?<YNJ0000<CLR<TURL'exploration de l'intérieur
-de l'île est prèsque accomplie
+de l'île est presque accomplie
 je le pense,<NOD<CLRmais des équipemets aériens 
 étaient nécessaires.<NOD<CLRDonc j'ai commencé le
 développement du "Booster".<NOD<CLRLe développement a avancé 
-en deux phases distinctes. les,
-versions 0.8 et 2.0.<NOD<CLRLa version 0.8 devrait 
+en deux phases distinctes : les versions 0.8 et 2.0.<NOD<CLRLa version 0.8 devrait 
 permettre un movement vertical
 aérien pendant un certain moment.<NOD<CLRJe suis sûr de finir la v2.0,
 supposant que je vive assez

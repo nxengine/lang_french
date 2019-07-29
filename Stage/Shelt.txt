@@ -137,10 +137,10 @@ KAZ: C'est moi.<NOD
 KAZ: Kazuma !<NOD
 KAZ: J'ai réussi à m'échapper,
 mais je me suis perdu...<NOD
-KAZ: J'ai trouvé un abri, mais il
-n'y a rien dedans.<NOD
+KAZ: J'ai trouvé un abri, mais
+il n'y a rien dedans.<NOD
 KAZ: Si tu m'entends,
-réponds-moi !<NOD<CLRKAZ: ...S'il te plait ?<NOD
+réponds-moi !<NOD<CLRKAZ: ...S'il te plaît ?<NOD
 <FAO0004<SK+0005<TRA0013:0091:0010:0008
 
 
@@ -171,7 +171,7 @@ je le ferais vraiment...<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
 KAZ: C'est vraiment toi ?<NOD<FAO0004<TRA0024:0701:0002:0000
 #0701
 <KEY<FAI0004<MSGKAZ: Cette porte est coincée
-et je peux pas sortir.<NOD
+et je ne peux pas sortir.<NOD
 KAZ: Je suis toujours dans cet
 abri bizarre.<NOD
 KAZ: Le code du secteur est

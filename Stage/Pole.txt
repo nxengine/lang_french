@@ -71,7 +71,7 @@ Voir autant d'utilisation sur
 un flingue qui n'est même pas
 terminé...<NOD<CLR
 Hahhh...<NOD<CLRPardonne mes grommelages.<NOD<CLR
-Tu peux garder cete arme.<NOD<CMU0000<FAO0001
+Tu peux garder cette arme.<NOD<CMU0000<FAO0001
 Après sa touche finale, bien sûr.<NOD<CLO
 <WAI0150<FAI0001
 <FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG

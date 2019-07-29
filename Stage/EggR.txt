@@ -18,7 +18,7 @@
 
 #0200
 <KEY<MSGVous trouvez une note.<NOD<CLR<TURAvec ce champ de force,
-impossible d'aller à l'Suf No. 00.<NOD<CLR<TURJe pense qu'un des terminaux
+impossible d'aller à l'Oeuf No. 00.<NOD<CLR<TURJe pense qu'un des terminaux
 serait capable de désactiver
 ce champ de forces...<NOD<END
 
@@ -31,53 +31,53 @@ ce champ de forces...<NOD<END
 #0500
 
 #0501
-<PRI<MS3<TURRuf de dragon No. 01
+<PRI<MS3<TUROeuf de dragon No. 01
 Erreur: anomalie détectée.
 Inspection requise.<NOD<END
 #0502
-<PRI<MS3<TURRuf de dragon No. 02
+<PRI<MS3<TUROeuf de dragon No. 02
 Conditions normales.<NOD<END
 #0503
-<PRI<MS3<TURRuf de dragon No. 03
+<PRI<MS3<TUROeuf de dragon No. 03
 Conditions normales.<NOD<END
 #0504
-<PRI<MS3<TURRuf de dragon No. 04
+<PRI<MS3<TUROeuf de dragon No. 04
 Conditions normales.<NOD<END
 #0505
-<PRI<MS3<TURRuf de dragon No. 05
+<PRI<MS3<TUROeuf de dragon No. 05
 Conditions normales.<NOD<END
 #0506
-<PRI<MS3<TURRuf de dragon No. 06
+<PRI<MS3<TUROeuf de dragon No. 06
 Erreur: anomalie détectée.
 Inspection requise.<NOD<END
 #0507
-<PRI<MS3<TURRuf de dragon No. 07
+<PRI<MS3<TUROeuf de dragon No. 07
 Conditions normales.<NOD<END
 #0508
-<PRI<MSG<TURRuf de dragon No. 08
+<PRI<MSG<TUROeuf de dragon No. 08
 Conditions normales.<NOD<END
 #0509
-<PRI<MSG<TURRuf de dragon No. 09
+<PRI<MSG<TUROeuf de dragon No. 09
 Conditions normales.<NOD<END
 #0510
-<PRI<MSG<TURRuf de dragon No. 10
+<PRI<MSG<TUROeuf de dragon No. 10
 Conditions normales.<NOD<END
 #0511
-<PRI<MSG<TURRuf de dragon No. 11
+<PRI<MSG<TUROeuf de dragon No. 11
 Conditions normales.<NOD<END
 #0512
-<PRI<MSG<TURRuf de dragon No. 12
+<PRI<MSG<TUROeuf de dragon No. 12
 Conditions normales.<NOD<END
 #0513
-<PRI<MSG<TURRuf de dragon No. 13
+<PRI<MSG<TUROeuf de dragon No. 13
 Conditions normales.<NOD<END
 #0514
-<PRI<MSG<TURRuf de dragon No. 14
+<PRI<MSG<TUROeuf de dragon No. 14
 Conditions normales.<NOD<END
 #0515
-<PRI<MSG<TURRuf de dragon No. 15
+<PRI<MSG<TUROeuf de dragon No. 15
 Conditions normales.<NOD<END
 #0516
-<PRI<MSG<TURRuf de dragon No. 16
+<PRI<MSG<TUROeuf de dragon No. 16
 Conditions normales.<NOD<END
 

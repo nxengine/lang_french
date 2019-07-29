@@ -68,7 +68,7 @@ Ce pendentif !<GIT1004<NOD<CLRTu l'as retrouvé ?<NOD
 Sue me l'avait donné !<NOD<CLR.....<NOD<CLREnfin... Je préfère ne
 pas le reprendre.<NOD
 <GIT0000King a les oreilles qui
-voient rouge quand il me
+chauffent quand il me
 voit avec Sue...<NOD
 Tu peux le garder.<NOD<CLO
 <FAC0000<CMU0000
@@ -95,7 +95,7 @@ Tu peux le garder.<NOD<CLO
 <CMP0006:0009:0098
 
 
-<MSGHuzzah !<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014Te voila !<NOD<CLR<FAC0005Tu peux pas te cacher !<NOD
+<MSGHuzzah !<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014Te voilà !<NOD<CLR<FAC0005Tu peux pas te cacher !<NOD
 J'ai le flair d'un chien
 de chasse !<NOD<FAC0000<CLREn effet.<NOD
 <CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015Le flair, et j'oserais
@@ -111,7 +111,7 @@ Charge-toi du reste.<NOD<CLO
 êtes tromp-- !<NOD<FAC0000<CLO
 <WAI0050
 <FAC0005<MSGPas ENCORE !<NOD
-C'est toujours à moi
+C'est toujours pour moi
 le sale boulot !<NOD
 Et je l'avais vu en
 PREMIER !<NOD<CLR.....<NOD<CLRAlors, tu vas faire quoi ?<NOD

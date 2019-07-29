@@ -165,7 +165,7 @@ de faire le fermier.<NOD<END
 <FLJ1022:0262
 <FLJ1035:0261
 <FL+1035
-<MSGOh, tiens, c'est toi.<NOD<CLRJ'ai atrappé un truc
+<MSGOh, tiens, c'est toi.<NOD<CLRJ'ai attrapé un truc
 bizarre, là.<NOD
 Tiens, je te le donne.<NOD
 Regarde dans le seau.<NOD<END
@@ -175,7 +175,7 @@ Regarde dans le seau.<NOD<END
 <PRI<MSGOù peut bien aller cette clé ?<NOD<CLRJe serais bien allé 
 fouiller un peu dans les stocks...<NOD<CLRMec, j'ai trop faim...<NOD<END
 #0263
-<PRI<MSGJ'atrappe RIEN DU TOUT ici.<NOD<END
+<PRI<MSGJ'attrape RIEN DU TOUT ici.<NOD<END
 
 #0265
 <PRI
@@ -213,13 +213,13 @@ fleurs rouges.<NOD<CLRCe n'est pas la première fois
 que ce genre de truc arrive...<NOD<END
 #0311
 <PRI<MSGJ'ai trouvé cette fille par terre.<NOD
-Elle dit qu'ele se rappelle plus
-qui elle est...<NOD<CLRElle a été jetée aux ordures,
+Elle dit ne plus se souvenir
+de son identité...<NOD<CLRElle a été jetée aux ordures,
 je suppose.<NOD<FL+1044<EVE0312
 #0312
 <PRI<MSGMaintenant que tu le dis...<NOD
 Il y a une sorte de champignon,
-il parait qu'il rend la mémoire<NOD
+il paraît qu'il rend la mémoire<NOD
 quand on le mange...<NOD
 Ça marcherait sur elle, tu crois ?<NOD<END
 #0313
@@ -278,7 +278,7 @@ et a lancé son assaut
 sur la terre.<NOD<CLRJ'ai essayé de l'arrêter.<NOD
 Tu étais là aussi.<NOD<CLR
 .....<NOD<CLRC'est...tout ce dont
-je me souviens.<NOD<CLRJe suis sur qu'on était
+je me souviens.<NOD<CLRJe suis sûr qu'on était
 capable de le vaincre.<NOD
 Mais on était loin de
 notre équipe...<NOD<CLR
@@ -360,7 +360,7 @@ Trône. Vite !<NOD<END
 <PRI<MSGHey ! On s'en sert, de celui-là !<NOD<END
 
 #0415
-<PRI<MSGC'est pas en marche.<NOD<FLJ1029:0416<END
+<PRI<MSGCet arroseur est en panne.<NOD<FLJ1029:0416<END
 #0416
 <PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
 <CMU0010Trouvé =Arroseur cassé =<WAI0160<NOD<RMU<END
@@ -381,7 +381,7 @@ je la salue !<NOD<END
 
 #0460
 <PRI<MSG<TURAttention aux Gunfish ! (Note:
-Ceux qui s'en servent de plateformes
+Ceux qui s'en servent comme plateformes
 le font à leurs risques et périls.)<NOD<END
 
 #0480

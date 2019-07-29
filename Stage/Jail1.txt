@@ -26,7 +26,7 @@
 <MSGOh, Tu es réveillé.<NOD<CLRJe te croyais mort.
 Tu te réveilles pas facilement,
 avec toutes ces baffes que t'as
-donné Sue pour te réveiller !<NOD<CLRIci c'est la prison.<NOD
+données Sue pour te réveiller !<NOD<CLRIci c'est la prison.<NOD
 Ceux qui sont contre le Docteur
 sont enfermés ici.<NOD
 Pour devenir des cobayes

@@ -25,7 +25,7 @@
 <CNP0500:0067:0002<WAI0010<MYD0000<WAI0090
 <MSG<FAC0000<FAC0015Oh?<NOD<FAC0000<CLO
 <ANP0500:0013:0002<WAI0050<ANP1000:0008:0000
-<MSG<FAC0015Nous revoila.<NOD
+<MSG<FAC0015Nous revoilà.<NOD
 Tu te souviens de moi ?<NOD<CLROui, au Village
 Mimiga...<NOD<CLRJe n'avais pas fait
 attention avant, mais...<NOD<CLRTu ne serais pas un soldat

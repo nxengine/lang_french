@@ -126,7 +126,7 @@ tricité.<NOD
 Si tu peux ammener
 un de ces arroseurs
 utilisés ici,<NOD
-ça pourrait surement
+ça pourrait sûrement
 faire l'affaire.<NOD<CLRPeux-tu me ramener
 un =Arroseur= ?<NOD<END
 
@@ -140,13 +140,13 @@ champs suffira.<NOD<CLRPeux-tu me ramener
 un =Arroseur= ?<NOD<END
 
 #0209
-<KEY<MSG<FAC0022Te revoila.<NOD<CLR<FAC0000<GIT1028Tu lui montres l'=Arroseur cassé =<NOD<CLR<FAC0022Hrmmm...<NOD<CLRCet arroseur
+<KEY<MSG<FAC0022Te revoilà.<NOD<CLR<FAC0000<GIT1028Tu lui montres l'=Arroseur cassé =<NOD<CLR<FAC0022Hrmmm...<NOD<CLRCet arroseur
 n'a plus de batteries.<NOD<GIT0000
 Je peux rien faire
 avec celui-là.<NOD<END
 
 #0210
-<KEY<FL+1102<FL+1107<MSG<FAC0022Te revoila.<NOD<CLR<FAC0000
+<KEY<FL+1102<FL+1107<MSG<FAC0022Te revoilà.<NOD<CLR<FAC0000
 <GIT1029<IT-0029Tu lui montres l'=Arroseur=.<NOD<CLR<FAC0022Voyons...<NOD<CLRBatteries
 pleines.<NOD
 Ça devrait le faire.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
@@ -162,9 +162,9 @@ Doc, lui aussi, mais
 il ne doit pas être loin.<NOD<END
 
 #0211
-<MSG<FL+1103<FAC0022Te revoila.<NOD<CLRTu as trouvé Itoh ?<NOD<CLR
-<FAC0000<GIT1027<IT-0027Donné =Controlleur=<NOD<CLR<FAC0022C'est parfait.<NOD
-C'est le Controlleur
+<MSG<FL+1103<FAC0022Te revoilà.<NOD<CLRTu as trouvé Itoh ?<NOD<CLR
+<FAC0000<GIT1027<IT-0027Donné =Contrôleur=<NOD<CLR<FAC0022C'est parfait.<NOD
+C'est le Contrôleur
 dont il est si fier.<NOD<GIT0000<CLRHmmm...<NOD<CLRL'analyse serait
 plus facile s'il
 était là.<NOD<CLRMais bon, j'y

@@ -76,7 +76,7 @@ Retrouve-moi aux Incubateurs
 
 #0600
 <FLJ0325:0601
-<KEY<MSG<FAC0009Tiens, te revoila.<NOD<CLRSue est revenue.<NOD
+<KEY<MSG<FAC0009Tiens, te revoilà.<NOD<CLRSue est revenue.<NOD
 Elle est enfermée dans
 la prison, dehors.<NOD
 Quand les sbires du
@@ -84,10 +84,10 @@ Docteur viendront, on
 tentera de libérer
 Toroko.<NOD
 Mais en échange de Sue,
-tu comprends.<NOD<CLRC'est pas très sympa,
+tu comprends.<NOD<CLRCe n'est pas très sympa,
 je sais, mais Toroko
 est une des nôtres.<NOD
-Voila ce qui arrive
+Voilà ce qui arrive
 quand on agit seul.<NOD<END
 #0601
 <KEY<MSG<FAC0009J'espère que Toroko
@@ -138,12 +138,12 @@ des amis...<NOD<CLO
 
 #0621
 <KEY<FLJ0158:0631<MSG<FAC0018Les plans du Docteur
-se passent comme il
-le veut...<NOD
+se déroulent comme il
+le souhaite...<NOD
 Si on n'agit pas
 rapidement...<NOD<END
 #0622
-<KEY<FLJ0158:0632<MSG<FAC0010Merci de ton aide.<NOD<CLRLa bécane n'a pas
+<KEY<FLJ0158:0632<MSG<FAC0010Merci pour ton aide.<NOD<CLRLa bécane n'a pas
 vraiment survécu, mais
 au moins, nous, oui.<NOD<END
 #0624
@@ -153,13 +153,13 @@ Non ! Je ne le permettrai
 jamais !<NOD<END
 #0625
 <KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC0001Te voila !<NOD<CLRApparemment je
+<FAC0001Te voilà !<NOD<CLRApparemment je
 te dois encore une
 fière chandelle.<NOD
 Avec l'aide de mon frère,<NOD
 on devrait pouvoir
 trouver le mot de passe
-de cet Suf.<NOD<CLO<FAC0000
+de cet oeuf.<NOD<CLO<FAC0000
 <ANP0625:0003:0000<WAI0008
 <ANP0625:0000:0000<MSG<FAC0001Booster !<NOD<CLRCe petit gars viendra
 avec nous ?<NOD<CLO<FAC0000
@@ -275,7 +275,7 @@ de Sakamoto,<NOD
 Et elle n'a jamais voulu
 venir ici depuis le
 début.<NOD
-On peut pas laisser
+On ne peut pas laisser
 des enfants seuls,<NOD
 Alors on n'a pas eu
 le choix.<NOD<CLR

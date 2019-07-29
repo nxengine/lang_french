@@ -40,7 +40,7 @@ TOI tu sens un peu le Mimiga.<NOD<END
 <PRI<MSGTu as déjà vu l'extérieur de
 l'île ?<NOD<CLRElle flotte très haut dans
 les cieux.<NOD
-Mais comment elle fait pour
+Mais comment fait-elle pour
 flotter...<NOD
 C'est un mystère qui est
 dans ce labyrinthe.<NOD<END

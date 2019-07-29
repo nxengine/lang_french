@@ -50,7 +50,7 @@ pour restaurer ta vie.<NOD<END
 #0230
 <KEY<FLJ0830:0231<MSG<FAC0013Je t'en prie !<NOD
 Arrête-les !<NOD<CLRIls veulent enrager
-les Mimigas et les lacher
+les Mimigas et les lâcher
 à la surface !<NOD<END
 #0231
 <KEY<ITJ0015:0232

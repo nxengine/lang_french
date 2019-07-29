@@ -82,7 +82,7 @@ Vous avez vaincu Misery !<WAI0140<NOD<CLO
 <KEY<DNP0500<MYD0002
 <CMP0000:0010:0021
 <CMP0000:0011:0021
-<MSG<FAC0016Alors te voila.<NOD<CLO<FAC0000
+<MSG<FAC0016Alors te voilà.<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
 <MSG<FAC0015Tu es vraiment un
 robot tenace.<NOD<CLRJ'imagine que tu es

@@ -92,18 +92,18 @@ amie ?<NOD<CLRElle est partie vers la
 Tu as l'air en
 pleine forme !<NOD<CLRCette sorcière t'a
 jeté ici aussi, hein ?<NOD
-Pareil pour moi !<NOD<CLR<FAC0020Alors t'as pas pu
+Pareil pour moi !<NOD<CLR<FAC0020Alors tu n'as pas pu
 les battre non plus...<NOD
 Je plaçais mes espoirs
 sur toi, mais...<NOD<CLREt moi, j'ai éssayé.
 Oh oui, éssayé.<NOD
-Et voila où ça m'a
+Et voilà où ça m'a
 conduit.<NOD<CLR.....<NOD<CLREt tout ça pour rien.<NOD
 Finalement, je
 n'ai pu sauver aucun
 des enfants.<NOD
 Et vu mon état,
-Je suis pas prête
+Je ne suis pas prête
 de repartir...<NOD<END
 #0321
 <KEY<MSG<FAC0020Oui, j'ai survécu, mais
