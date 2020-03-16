@@ -66,9 +66,9 @@ tout...<NOD<END
 
 #0420
 <KEY<MSGHwahaha !<NOD
-Tu as pigé le truc, hein ?<NOD<CLRCE n'est rien de plus qu'un
+Tu as pigé le truc, hein ?<NOD<CLRCe n'est rien de plus qu'un
 badge idiot !<NOD<CLR.....<NOD<CLRComment ?<NOD
-Tu veux m'attrapper ?!<NOD<CLRSache que je suis un champignon
+Tu veux m'attraper ?!<NOD<CLRSache que je suis un champignon
 de très grande valeur, pas comme
 les autres dans les cavernes !<NOD<CLRGrrrrrr !<NOD
 Je ne te laisserai pas me
