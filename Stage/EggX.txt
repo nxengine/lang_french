@@ -42,7 +42,8 @@ J'ai été battue par
 ce monstre...<ANP0200:0000:0000<NOD<CLR.....<NOD
 C'est toi qui m'a sauvée ?<YNJ0202<EVE0201
 #0201
-<FAC0003Je n'avais pas besoin de toi !!<NOD<CLRJe pouvais m'en charger
+<FAC0003Je n'avais pas besoin de
+toi !!<NOD<CLRJe pouvais m'en charger
 seule ! Vraiment !<NOD
 Grr...Je déteste cette
 île, et tout ce qui
