@@ -15,7 +15,7 @@ Apparemment construit par Polaris.
 #1003
 <MSG<TUR- Boule de Feu -
 Rebondit sur le sol.
-Plutot puissant sur les pentes.<WAI9999<END
+Plutôt puissant sur les pentes.<WAI9999<END
 #1004
 <MSG<TUR- Mitrailleuse -
 Une mitraillette automatique.
@@ -26,7 +26,7 @@ Provoque de puissants dégats.
 Mais ses munitions sont limitées.<WAI9999<END
 #1007
 <MSG<TUR- Canon a bulles -
-Provient d'une cheminee du village.
+Provient d'une cheminée du village.
 A vous de voir comment s'en servir.<WAI9999<END
 #1009
 <MSG<TUR- Épée -
@@ -59,7 +59,7 @@ pour tirer un laser.<WAI9999<END
 #1200
 <MSG<TURChiot de Jenka et chef du groupe.
 En recherchant ses frères, il s'est
-perdu et a ete trouve par Curly.<WAI9999<END
+perdu et a été trouvé par Curly.<WAI9999<END
 #1201
 <MSG<TURChiot de Jenka. Aime les chasses
 au trésor. Récemment trouvé dans
@@ -185,7 +185,7 @@ est-il toujours en vie...?<WAI9999<END
 #6006
 <MSG<TURUne capsule de vie.<WAI9999<END
 #6007
-<MSG<TURUn multipass trouvé dans l'Suf
+<MSG<TURUn multipass trouvé dans l'Oeuf
 No. 06.<WAI9999<END
 #6008
 <MSG<TURUn fluide qui peut éteindre
@@ -209,23 +209,23 @@ d'autres trucs.<WAI9999<END
 <FLJ3004:1204
 <MSG<TURAnimal de compagnie de Jenka.<WAI9999<END
 #6015
-<KEY<MSGCeci vous rétablira votre énergie,
+<KEY<MSGCeci rétablira votre énergie,
 mais une seule fois. L'utiliser?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
 Énergie restaurée.<FRE<WAI9999<END
 #6016
-<MSG<TURApparemment ça peut guérir
+<MSG<TURApparemment, ça peut guérir
 de tout et n'importe quoi...<WAI9999<END
 #6017
 <MSG<TURC'est marqué "Clinique du
 Labyrinthe".<WAI9999<END
 #6018
 <FLJ0742:7018
-<KEY<MSGAppuie sur saut dans les airs
+<KEY<MSGAppuyer sur saut dans les airs
 pour aller encore plus haut.<NOD<CLR
 S'en équiper ?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
 Booster équipé.<NOD<WAI0003<FRE<EVE5018
 #6019
-<MSG<TURRéduction de perte d'energie des
+<MSG<TURRéduction de perte d'énergie des
 armes quand vous prenez des dégats.<WAI9999<END
 #6020
 <MSG<TURRecharge plus rapidement
@@ -238,7 +238,7 @@ Curly s'en servait souvent.<WAI9999<END
 Aucun bouton visible.<WAI9999<END
 #6023
 <FLJ0743:7023
-<KEY<MSGAppuyez sur saut dans les airs
+<KEY<MSGAppuyer sur saut dans les airs
 pour voler dans n'importe quelle
 direction.<NOD<CLR
 S'en équiper ?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
@@ -302,15 +302,15 @@ Aucune utilité.<WAI9999<END
 <MSG<TURHey ! C'est encore loin ?<WAI9999<END
 #6033
 <MSG<TURLe badge champignon obtenu d'un
-champignon. Aucune utilite.
+champignon. Aucune utilité.
 Non vraiment, y en a pas besoin...<FL+1563<WAI9999<END
 #6034
-<MSG<TURIl parait que ça permet de
+<MSG<TURIl paraît que ça permet de
 retrouver la mémoire...<WAI9999<END
 #6035
 <MSG<TURTrouvée derrière un mur.
 Une petite culotte verte avec un
-petit insigne. Aucune utilite.<WAI9999<END
+petit insigne. Aucune utilité.<WAI9999<END
 #6036
 <MSG<TURLa silhouette d'un alien y est
 gravée. Aucune utilité.<WAI9999<END
@@ -325,9 +325,9 @@ S'en équiper ?<YNJ0000<EQ+0128<FL+0722<MSG
 Étoile Lunatique équipée.<NOD<WAI0003<FRE<EVE5038
 #6039
 <MSG<TURVotre lien avec Curly Brace,
-la seule guerriere sur qui vous
+la seule guerrière sur qui vous
 pouvez compter.<NOD
-Vous vous reverrez surement...<WAI9999<END
+Vous vous reverrez sûrement...<WAI9999<END
 
 #7002
 <MLP<END
