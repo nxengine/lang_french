@@ -54,7 +54,7 @@ sans doute...<NOD<END
 
 #0501
 <KEY<ITJ0030:0503<FLJ0741:0502
-<MSGOohhh...<NOD<CLR<FAC0017Oh!<NOD
+<MSGOohhh...<NOD<CLR<FAC0017Oh !<NOD
 Qu'est-ce que tu fais là ?!<NOD<CLR.....<NOD<CLRAh, alors Misery t'a
 jeté ici...<NOD<CLR*tousse*...<NOD<CLRTu n'en as plus pour
 très loin...<NOD<CLRTu vois,<NOD

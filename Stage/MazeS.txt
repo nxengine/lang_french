@@ -48,7 +48,7 @@ ce gros rocher,
 on pourrait sortir.<NOD<CLRCela dit, des rumeurs
 disent qu'un monstre vit
 de l'autre coté...<NOD
-Alors soyons prêts.<NOD<CLRBon, Poussons
+Alors soyons prêts.<NOD<CLRBon, poussons
 ce truc.<NOD
 Prends le coté gauche.<NOD<CLO
 <ANP0300:0020:0000<END
@@ -61,7 +61,7 @@ Allez, atrappe le
 côté gauche de
 ce rocher.<NOD<ANP0300:0020:0000<END
 #0302
-<PRI<MSGElle est froide.<NOD<END
+<PRI<MSGElle ne bouge pas.<NOD<END
 #0303
 <PRI<MSG<FAC0019Allons-y !<NOD<CLRUn nid entier de
 monstres nous attend !!<NOD<END
@@ -105,7 +105,7 @@ tranquille comme un
 bon petit robot ?<NOD<CLRTu ne feras pas 
 le poids face
 à mon maître,
-pas plus que moi..<NOD<CLRTrès bien !<NOD
+pas plus que moi...<NOD<CLRTrès bien !<NOD
 Je vais en finir
 avec tout ça !<NOD<CLRNe m'en veux pas
 mais je dois te

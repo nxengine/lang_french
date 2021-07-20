@@ -212,7 +212,8 @@ faire ça ?!<NOD<CLR<FAC0002Ce type est...
 ...un démon.<NOD<CLR<FAC0009Et il va utiliser ces
 fleurs sur Toroko ?<NOD<CLR<FAC0002A ce que je sais,
 Il les cherche toujours.<NOD<CLROn ne peut que prier
-pour qu'il ne les trouve pas.<NOD<CLR<FAC0009Si...<NOD<CLRS'il trouve
+pour qu'il ne les
+trouve pas.<NOD<CLR<FAC0009Si...<NOD<CLRS'il trouve
 les fleurs, Toroko...<NOD<CLR<FAC0002Elle deviendrait sauvage...
 Une arme mortelle...<NOD<CLR<FAC0007Je ne laisserai jamais
 cela arriver !<NOD<CLO

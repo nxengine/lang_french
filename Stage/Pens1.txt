@@ -108,7 +108,7 @@ mes yeux.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
 <ANP0500:0000:0000<WAI0030
 <ANP0102:0000:0002<SOU0011
 <CNP0625:0042:0000
-<MSG<FAC0001Kazuma!!<NOD<ANP0622:0000:0002<CLREt Professeur Booster !<NOD<CLR<FAC0018Oh!<NOD<CLO<FAC0000
+<MSG<FAC0001Kazuma !!<NOD<ANP0622:0000:0002<CLREt Professeur Booster !<NOD<CLR<FAC0018Oh !<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
 <MSG<FAC0018Tout le monde va bien ?!<NOD<CLR<FAC0001Mh, je survis.<NOD<CLO<FAC0000
@@ -182,7 +182,8 @@ y trouvera le Docteur ?<NOD<CLR<FAC0018Ben,<NOD ou au moins un
 de ses serviteurs.<NOD
 Si on ne détruit pas ces
 fleurs avant qu'il ne
-mettent le grappin dessus...<NOD<CLRCependant, la Zone des
+mettent le grappin
+dessus...<NOD<CLRCependant, la Zone des
 Sables est très
 dangereuse.<NOD
 Même si nous avons
@@ -203,8 +204,9 @@ avaient tous été
 détruits,<ANP0621:0000:0000<NOD
 mais je ne connais
 pas les détails.<NOD
-Il est tout a fait possible
-que l'un deux ait survécu...<NOD<CLR<FAC0010Professeur.<NOD
+Il est tout à fait possible
+que l'un deux ait
+survécu...<NOD<CLR<FAC0010Professeur.<NOD
 La Zone des Sables est
 connectée.<NOD<CLR<FAC0018Je vois.<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015

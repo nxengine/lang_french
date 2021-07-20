@@ -66,7 +66,7 @@ le chien près du lit.<NOD<FL+0564<END
 
 #0300
 <KEY<DNP0300<MM0<MYD0000<CMU0000
-<FL+0561<MSGAaaaahhhh!<NOD<CLO<KEY
+<FL+0561<MSGAaaaahhhh !<NOD<CLO<KEY
 <ANP0500:0003:0002<WAI0079<ANP0500:0000:0002
 <MSG<FAC0019Ooohhhh !<NOD<CLO
 <CNP0310:0122:0002<DNP0200<WAI0010
@@ -114,7 +114,8 @@ Victoire !<WAI0140<CMU0000<NOD<CLO
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
 <MSG<FAC0020Tu as gagné...<NOD
-Je ne peux plus me battre...<NOD<CLRJe suppose que tu vas
+Je ne peux plus me
+battre...<NOD<CLRJe suppose que tu vas
 tuer tous les Mimigas,<NOD
 comme les autres robots
 avant toi ?<YNJ0410<CLRJe vois...<NOD<CLRQuel manque de pitié...<NOD<PRI<CLO
@@ -130,7 +131,7 @@ Curly Brace.<NOD
 Quand je me suis réveillée,
 j'étais avec ces enfants.<NOD<CLR<FAC0025Je n'ai aucun souvenir
 d'avant ça...<NOD
-Amnesie, on pourrait dire.<NOD<CLR<FAC0020J'étais...probablement une
+Amnésie, on pourrait dire.<NOD<CLR<FAC0020J'étais...probablement une
 tueuse de Mimigas comme
 les autres robots...<NOD<CLO
 <EVE0415

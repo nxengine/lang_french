@@ -39,9 +39,9 @@ Laisse-moi apaiser tes blessures.<NOD<CLO<LI+1000<SOU0020
 <FLJ0700:0301<FL+0700<WAI0050
 <MSGNon, non, non, c'est gratuit.<NOD<CLRCela dit, en retour, j'ai une
 faveur à te demander.<NOD<CLRPrès d'ici se trouve l'ancienne
-clinique..<NOD
+clinique...<NOD
 Peux-tu aller voir s'il y a
-des médicaments là-bas.<NOD<CLR
+des médicaments là-bas ?<NOD<CLR
 <GIT1017<IT+0017Reçu =Clé de la Clinique=<NOD<GIT0000<END
 #0301
 <KEY<MSGCe n'est pas loin d'ici.<NOD
@@ -88,7 +88,7 @@ amie ?<NOD<CLRElle est partie vers la
 #0320
 <FLJ0702:0322
 <FLJ0701:0321<FL+0701
-<KEY<MSG<FAC0019Oh, hey !<NOD<CLRça faisait un bail.<NOD
+<KEY<MSG<FAC0019Oh, hey !<NOD<CLRÇa fait un bail.<NOD
 Tu as l'air en
 pleine forme !<NOD<CLRCette sorcière t'a
 jeté ici aussi, hein ?<NOD
