@@ -48,7 +48,7 @@ de poussière...<NOD<FLJ1441:0223<FLJ1445:0222<END
 Le lire?<YNJ0000<FL+1441<CLR<TURLes robots de la surface ont des
 limitations sur leur autonomie
 dans l'eau.<NOD<CLRS'ils sont trop longtemps
-submergés,<NOD<CLRLeur système s'éteint pour éviter
+submergés,<NOD<CLRleur système s'éteint pour éviter
 d'éventuels court-circuits.<NOD<CLRCe qui suit est une description
 de comment restaurer un robot
 noyé.<NOD<CLR<MSG

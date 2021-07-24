@@ -233,7 +233,7 @@ chez les robots.<NOD<CLRCeci est le coeur
 de l'île !<NOD<CLRSi tu le détruis, l'île
 tombera sur la Terre !<NOD<CLRC'est ce que tu souhaites ?<NOD<CLRDétruire cette île
 comme marque de
-gloire ?!<NOD<CLRC'est de la Folie !!<NOD<CLO<FAC0000
+gloire ?!<NOD<CLRC'est de la folie !!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0021
 Hey !<NOD<CLRQue fais-tu ?
