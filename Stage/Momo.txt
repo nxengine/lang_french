@@ -78,7 +78,7 @@ un tel truc...<NOD<END
 <MSG<CLR.....<NOD<CLRAha.<NOD Puis-je
 t'emprunter ceci ?<NOD<CLR
 <FAC0000<GIT1018=Booster v0.8= pris.<NOD<GIT0000<CLR<FAC0022J'ai encore besoin
-de d'autres pièces
+d'autres pièces
 pour finir la fusée.<NOD<CLO
 <IT-0018<EQ-0001<FL-0742
 <FL+1106
@@ -88,7 +88,7 @@ pour finir la fusée.<NOD<CLO
 <MSG<CLR.....<NOD<CLRAha.<NOD Puis-je
 t'emprunter ceci ?<NOD<CLR
 <FAC0000<GIT1023=Booster v2.0= pris.<NOD<GIT0000<CLR<FAC0022J'ai encore besoin
-de d'autres pièces
+d'autres pièces
 pour finir la fusée.<NOD<CLO
 <IT-0023<EQ-0032<FL-0743
 <FL+1106
@@ -126,7 +126,7 @@ tricité.<NOD
 Si tu peux ammener
 un de ces arroseurs
 utilisés ici,<NOD
-ça pourrait sûrement
+ça pourra sûrement
 faire l'affaire.<NOD<CLRPeux-tu me ramener
 un =Arroseur= ?<NOD<END
 
@@ -154,10 +154,10 @@ pleines.<NOD
 que tu retrouves un
 homme nommé Itoh.<NOD<CLRC'est un "ingénieur
 de grand talent",
-comme il le dit.<NOD<CLRMais c'est aussi
+comme il dit.<NOD<CLRMais c'est aussi
 le mec le plus timide
 que j'ai jamais vu.<NOD
-Il s'est enfui du
+Il s'est enfui devant le
 Doc, lui aussi, mais
 il ne doit pas être loin.<NOD<END
 
