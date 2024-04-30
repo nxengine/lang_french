@@ -160,7 +160,7 @@ l0100
 [ Mimiga Violent: Rabil]0057-0048
 [ Piège instantané: Press]0056-0048
 [ Machouilleur ninja: Sandcroc]0061-0048
-[ Tête balladeuse: Skullhead]0063-0048
+[ Crâne errant: Skullhead]0063-0048
 [ Coureur des sables: Skullstep]0065-0048
 [ Ennemi blanc: Skeleton]0062-0048
 [ Chasseur des sables: Crow]0064-0048
