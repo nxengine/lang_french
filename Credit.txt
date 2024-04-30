@@ -6,7 +6,7 @@
 [Courageuse, cherche]0000-0016
 [ son frère]0000-0016
 [  Sue Sakamoto]0001-0064
-[Son frere parfois]0000-0016
+[Son frère parfois]0000-0016
 [ utile]0000-0016
 [  Kazuma Sakamoto]0002-0064
 [La mère de Sue]0000-0032
@@ -23,7 +23,7 @@
 [  Toroko]0013-0064
 [Le chef du village]0000-0032
 [  King]0014-0064
-[Le numero deux]0000-0032
+[Le numéro deux]0000-0032
 [  Jack]0015-0064
 [Il bouffe tout le temps]0000-0032
 [  Mahin]0016-0064
@@ -85,7 +85,7 @@ f2000:0090
 [  Le Docteur]0006-0064
 [Le larbin du Docteur]0000-0032
 [  Misery]0011-0064
-[Punching bag de Misery]0000-0032
+[Punching-ball de Misery]0000-0032
 [  Balrog]0012-0064
 -0063
 [- Etcetera -]0000-0064
@@ -159,15 +159,15 @@ l0100
 [ Reine des méduses: Kulala]0053-0048
 [ Mimiga Violent: Rabil]0057-0048
 [ Piège instantané: Press]0056-0048
-[ Gnappeur ninja: Sandcroc]0061-0048
-[ Tete balladeuse: Skullhead]0063-0048
+[ Machouilleur ninja: Sandcroc]0061-0048
+[ Tête balladeuse: Skullhead]0063-0048
 [ Coureur des sables: Skullstep]0065-0048
 [ Ennemi blanc: Skeleton]0062-0048
 [ Chasseur des sables: Crow]0064-0048
 [ Missile rusé: Armadillo]0060-0048
 [ Un pour tous: Polish]0059-0048
 [ Se répand partout: Baby]0058-0048
-[ Par Toroko frénésie: Flowercub]0066-0048
+[ D'une Toroko Enragée: Flowercub]0066-0048
 [ Habitant du Labyrinthe: Gaudi]0067-0048
 [ Guerrier du Labyrinthe: Armor]0068-0048
 [ Bébé du Labyrinthe: Gaudi Egg]0069-0048
@@ -177,14 +177,14 @@ l0100
 [ Esprit Gaudi: Fuzz]0074-0048
 [ Noyau d'esprit: Fuzz Core]0075-0048
 [ Vieil ami: Porcupine Fish]0076-0048
-[ Echec d'éclosion: Dragon Zombie]0079-0048
+[ Éclosion défectueuse: Dragon Zombie]0079-0048
 [ Explosif à rebours: Counter Bomb]0078-0048
 [ Flotteur du ciel: Night Spirit]0081-0048
 [ Saute: Hoppy]0082-0048
 [ Guerrier en Photosynthèse: Midorin]0085-0048
 [ Né sur terre: Droll]0084-0048
-[ Plateforme poisson: Gunfish]0086-0048
-[ Mère chauve souris: Orangebell]0083-0048
+[ Poisson plateforme: Gunfish]0086-0048
+[ Mère chauve-souris: Orangebell]0083-0048
 [ Libellule de Plantation: Stumpy]0087-0048
 
 f2000:0190j0200l0190
@@ -199,17 +199,17 @@ l0200
 +0064
 [ = Boss = ]0000-0032
 -0063
-[Mimiga frénésie qui]0000-0016
-[ a kidnappe Sue]0000-0016
+[Mimiga enragé qui]0000-0016
+[ a kidnappé Sue]0000-0016
 [  Igor]0091-0064
-[Misery a changé]0000-0016
-[ Balrog en ça]0000-0016
+[Ce en quoi Misery]0000-0016
+[ a changé Balrog]0000-0016
 [  Balfrog]0104-0064
 [Monstre-machine caché]0000-0016
 [ dans le sable]0000-0016
 [  Omega]0105-0064
 [Elevée aux fleurs rouges]0000-0032
-[  Toroko Frénésie]0108-0064
+[  Toroko Enragée]0108-0064
 [Fantôme de]0000-0016
 [ la clinique]0000-0016
 [  Pooh Black]0030-0064
@@ -227,7 +227,7 @@ l0200
 [  Démon rouge]0089-0064
 [Quand les cristaux]0000-0016
 [ rouges s'en mêlent]0000-0016
-[  Docteur Frénésie]0109-0064
+[  Docteur Enragé]0109-0064
 [Le Docteur fou et]0000-0016
 [ le coeur de l'ile]0000-0016
 [  Coeur zombie]0107-0064
@@ -236,7 +236,7 @@ f2000:0290j0300l0290
 [L'écraseur géant]0000-0032
 [  Heavy Press]0111-0064
 [Incarnation de haine]0000-0016
-[  et folie]0000-0016
+[  et de folie]0000-0016
 [  Ballos]0110-0128
 l0300
 -0080
