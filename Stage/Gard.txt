@@ -55,7 +55,7 @@ réaction sur un Mimiga.<NOD<CLR<FAC0016Oui mon seigneur.<NOD<FAC0000<CLO
 <ANP0504:0030:0002
 <MSG<FAC0014Oh-oh.<NOD
 Où crois-tu aller ?<NOD<FON0506:0016<CLR<FAC0016Balrog.<NOD
-Fais lui manger une fleur.<NOD<CLR<FAC0014<ANP0504:0030:0002
+Fais-lui manger une fleur.<NOD<CLR<FAC0014<ANP0504:0030:0002
 Oui, chef.<NOD<FAC0000<CLO
 <ANP0504:0060:0002<WAI0032
 <ANP0504:0050:0002<WAI0050
@@ -108,7 +108,7 @@ tous les trois.<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
 <FON0503:0016<ANP0503:0100:0005
 <WAI0400<CMU0000
 <MSG
-Vous avez vaincu Toroko frénésie.<WAI0050<NOD<CLO
+Vous avez vaincu Toroko Enragée.<WAI0050<NOD<CLO
 <ANP0503:0140:0005<WAI0150<FOM0016<END
 #0504
 #0505
@@ -121,7 +121,7 @@ Vous avez vaincu Toroko frénésie.<WAI0050<NOD<CLO
 #0600
 <KEY<FL+0622<MSG<FAC0007Ergh...<NOD<CLRC'est fini pour moi.<NOD
 Venge-moi. Venge-nous.<NOD<CLRPrends cette épée.<NOD
-Sauve les...Mimigas !
+Sauve... les Mimigas !
 Je...t'en...prie !<NOD<CLO
 <ANP0505:0040:0005<MYB0000<WAI0100<END
 #0601

@@ -56,12 +56,12 @@ sans doute...<NOD<END
 <KEY<ITJ0030:0503<FLJ0741:0502
 <MSGOohhh...<NOD<CLR<FAC0017Oh !<NOD
 Qu'est-ce que tu fais là ?!<NOD<CLR.....<NOD<CLRAh, alors Misery t'a
-jeté ici...<NOD<CLR*tousse*...<NOD<CLRTu n'en as plus pour
+jeté ici...<NOD<CLR*tousse*...<NOD<CLRTu n'es plus
 très loin...<NOD<CLRTu vois,<NOD
 cette île flotte dans
 le ciel grâce au pouvoir
-d'un certain organisme,<NOD
-Et j'ai découvert
+d'un organisme particulier,<NOD
+et j'ai découvert
 où il se trouve.<NOD<CLRCe labyrinthe.<NOD<CLRL'organisme vit
 quelque part dans
 ce labyrinthe.<NOD
@@ -76,14 +76,14 @@ Tu reçois le =Booster v0.8=.<NOD<CLR<FAC0017Ce petit sac à dos
 t'aidera à voler un peu.<NOD
 Si tu appuies sur
 saut, en l'air, tu
-pourras flotter.<NOD<CLRVa dans ton inventaire
-pour t'en équiper.<NOD<GIT0000<CLRPhew...<NOD<CLRLa minute ou j'ai
-essayé de voler, j'ai
-cru que ça serait fini.<NOD
+pourras planer.<NOD<CLRVa dans ton inventaire
+pour t'en équiper.<NOD<GIT0000<CLRPhew...<NOD<CLRÀ l'instant où j'ai
+essayé de m'envoler, j'ai
+cru que c'était la fin.<NOD
 Mais ça m'a permis de
 te revoir...<NOD
 On dirait que la chance
-se détourne de moi.<NOD<CLRJe prie pour ta
+se retourne contre moi.<NOD<CLRJe prie pour ta
 victoire...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
 
 #0502
