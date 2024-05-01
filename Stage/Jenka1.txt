@@ -133,8 +133,7 @@ plus puissants.<NOD
 Ils les ont mangés et
 ont combattu les robots.<NOD<CLR
 Cependant...<NOD<CLRSais-tu ce qui arrive
-aux Mimigas enragés ?
-<NOD<CLR.....<NOD<CLRC'est une triste
+aux Mimigas enragés ?<NOD<CLR.....<NOD<CLRC'est une triste
 histoire...<NOD
 Les Mimigas enragés,
 sont totalement
